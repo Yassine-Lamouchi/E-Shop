@@ -147,8 +147,6 @@ $pass = ""; // Laissez vide sous XAMPP par défaut
 ```
 
 - **XAMPP** : `$user = "root";` et `$pass = "";` (valeurs par défaut déjà configurées).
-- **WAMP** : `$user = "root";` et `$pass = "";` (ou mot de passe défini lors de l'installation).
-- **MAMP** : `$user = "root";` et `$pass = "root";` avec le port MySQL 8889 si applicable.
 
 ---
 
