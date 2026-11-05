@@ -90,7 +90,7 @@ E-Shop/
 
 Pour exécuter ce projet localement, assurez-vous d'avoir installé un environnement serveur local :
 
-- **Serveur web local** : [XAMPP](https://www.apachefriends.org/), [WampServer](https://www.wampserver.com/), ou [Laragon]
+- **Serveur web local** : [XAMPP](https://www.apachefriends.org/)
 - **PHP** : Version 7.4 ou 8.x (avec extensions `pdo` et `pdo_mysql` activées)
 - **MySQL / MariaDB** : Version 5.7+ ou 10.4+
 - **Navigateur Web** : Chrome, Firefox, Edge, etc.
