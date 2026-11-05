@@ -104,9 +104,7 @@ Pour exécuter ce projet localement, assurez-vous d'avoir installé un environne
 Copiez ou déplacez le dossier `E-Shop` dans le dossier racine de votre serveur web local :
 
 - **Sous XAMPP (Windows)** : `C:\xampp\htdocs\E-Shop`
-- **Sous WampServer** : `C:\wamp64\www\E-Shop`
-- **Sous Laragon** : `C:\laragon\www\E-Shop`
-
+ 
 ---
 
 ### Étape 2 : Démarrer Apache et MySQL
