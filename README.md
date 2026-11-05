@@ -79,7 +79,6 @@ E-Shop/
 │   ├── header.php                   # En-tête globale avec barre de navigation dynamique
 │   └── footer.php                   # Pied de page global avec liens rapides
 │
-├── .gitignore                       # Fichiers et dossiers ignorés par Git
 ├── index.php                        # Page d'accueil publique (catalogue des produits)
 ├── produit.php                      # Page de détail d'un produit
 └── README.md                        # Documentation du projet
