@@ -6,6 +6,8 @@ Application web simple de commerce électronique (E-Commerce) développée en **
 
 ---
 
+<div align="center">
+
 ### 🌐 [Live Demo — yassine-eshop.infinityfreeapp.com](https://yassine-eshop.infinityfreeapp.com/)
 
 </div>
